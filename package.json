@@ -1,0 +1,19 @@
+{
+  "name": "biblia.api",
+  "version": "1.0.0",
+  "type": "module",        
+  "main": "biblia.js",
+  "scripts": {
+    "start": "node biblia.js",
+    "dev": "nodemon biblia.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.10"
+  }
+}
